@@ -31,7 +31,8 @@ project/
 ├─ main.py # Main Python script
 ├─ requirements.txt # Required Python packages
 
-
+Data Base used
+Supabase : https://supabase.com/dashboard
 ---
 
 ## ⚙️ Installation
